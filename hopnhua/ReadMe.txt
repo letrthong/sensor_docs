@@ -45,6 +45,8 @@
 	
 4/ Màu sắc
    Chỉ dùng màu trắng và đen (Trừ logo)
+   
+ 
 	
 
 
