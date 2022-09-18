@@ -2,7 +2,7 @@ SHT30-D
 
 Specifications
 
-Sensirion SHT31-D là cảm biến nhiệt độ, độ ẩm  <br>
+Sensirion SHT30-D là cảm biến nhiệt độ, độ ẩm  <br>
  <br>
 -Tương tích 3.3V và 5.5V <br>
 -Phạm vi nhiệt độ: từ -40 đến 125 độ C  <br>
