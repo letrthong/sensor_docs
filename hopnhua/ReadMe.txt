@@ -34,7 +34,7 @@
 		Thiết kế bởi Công ty Telua ở Viêt Nam
    -------------------------------------------------
    4 Mặt Trước  
-       SHT30-D temperature & humidity sensor breakout  
+       SHT40-D temperature & humidity sensor breakout  
     Mặt sau
        	Communication: I2C, Address is 0x44
 		Operating Voltage: 3.3V~5.5V
