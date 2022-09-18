@@ -5,3 +5,8 @@
  Túi nilong đóng gói linh kiện điện tử
  
  Túi chống tĩnh điện
+ 
+ TÚI ZÍP CHỐNG TĨNH ĐIỆN
+ 
+ 
+ Máy hàn nhiệt miệng túi nilon 
