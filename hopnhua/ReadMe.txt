@@ -7,7 +7,7 @@
 3/ Có 4 loại  giống như bên dưới
   ---------------------------------------------------
   1 Mặt Trước  
-        Mạch SHT30-D cảm biến đo nhiệt độ & độ ẩm  
+        SHT30-D mạch cảm biến đo nhiệt độ & độ ẩm  
     Mặt sau
        	Giao tiếp: I2C, địa chỉ là 0x44
 		Nguồn hoạt động: 3.3V~5.5V
@@ -25,7 +25,7 @@
 		Designed by Telua Company in Vietnam
    -------------------------------------------------
   3 Mặt Trước  
-        Mạch SHT40-D cảm biến đo nhiệt độ & độ ẩm  
+        SHT40-D mạch cảm biến đo nhiệt độ & độ ẩm  
     Mặt sau
        	Giao tiếp: I2C, địa chỉ là 0x44
 		Nguồn hoạt động: 3.3V~5.5V
