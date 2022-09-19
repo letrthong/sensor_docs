@@ -10,37 +10,38 @@
         SHT30-D mạch cảm biến đo nhiệt độ & độ ẩm  
     Mặt sau
        	Giao tiếp: I2C, địa chỉ là 0x44
-		Nguồn hoạt động: 3.3V~5.5V
-		Kích thước: 18x40mm
+		   Nguồn hoạt động: 3.3V~5.5V
+		   Kích thước: 18x40mm
 		
-		Thiết kế bởi Công ty Telua ở Viêt Nam
+		    Thiết kế bởi Công ty Telua ở Viêt Nam
   --------------------------------------------------  
   2 Mặt Trước  
-       SHT30-D temperature & humidity sensor breakout  
+        SHT31-D mạch cảm biến đo nhiệt độ & độ ẩm  
     Mặt sau
-       	Communication: I2C, Address is 0x44
-		Operating Voltage: 3.3V~5.5V
-		Dimension: 18x40mm
-		
-		Designed by Telua Company in Vietnam
-   -------------------------------------------------
-  3 Mặt Trước  
-        SHT40-D mạch cảm biến đo nhiệt độ & độ ẩm  
-    Mặt sau
-       	Giao tiếp: I2C, địa chỉ là 0x44
-		Nguồn hoạt động: 3.3V~5.5V
-		Kích thước: 18x40mm
+         Giao tiếp: I2C, địa chỉ là 0x44
+         Nguồn hoạt động: 3.3V~5.5V
+         Kích thước: 18x40mm
 		
 		Thiết kế bởi Công ty Telua ở Viêt Nam
+  ------------------------------------------------
    -------------------------------------------------
-   4 Mặt Trước  
-       SHT40-D temperature & humidity sensor breakout  
+  3 Mặt Trước  
+         SHT40-D mạch cảm biến đo nhiệt độ & độ ẩm  
     Mặt sau
-       	Communication: I2C, Address is 0x44
-		Operating Voltage: 3.3V~5.5V
-		Dimension: 18x40mm
-		
-		Designed by Telua Company in Vietnam
+       	Giao tiếp: I2C, địa chỉ là 0x44
+         Nguồn hoạt động: 3.3V~5.5V
+         Kích thước: 18x40mm
+         
+         Thiết kế bởi Công ty Telua ở Viêt Nam
+   -------------------------------------------------
+    3 Mặt Trước  
+         BME-280  mạch cảm biến đo nhiệt độ & độ ẩm  
+    Mặt sau
+         Giao tiếp: I2C, địa chỉ là 0x76
+         Nguồn hoạt động: 3.3V~5.5V
+         Kích thước: 18x40mm
+         
+         Thiết kế bởi Công ty Telua ở Viêt Nam
 	-------------------------------------------------
 	
 4/ Màu sắc
