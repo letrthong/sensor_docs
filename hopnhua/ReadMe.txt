@@ -13,7 +13,7 @@
 		   Nguồn hoạt động: 3.3V~5.5V
 		   Kích thước: 18x40mm
 		
-		    Thiết kế bởi Công ty Telua ở Viêt Nam
+		   Thiết kế bởi Công ty Telua ở Viêt Nam
   --------------------------------------------------  
   2 Mặt Trước  
         SHT31-D mạch cảm biến đo nhiệt độ & độ ẩm  
@@ -24,7 +24,6 @@
 		
 		Thiết kế bởi Công ty Telua ở Viêt Nam
   ------------------------------------------------
-   -------------------------------------------------
   3 Mặt Trước  
          SHT40-D mạch cảm biến đo nhiệt độ & độ ẩm  
     Mặt sau
