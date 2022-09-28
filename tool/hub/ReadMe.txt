@@ -1,0 +1,1 @@
+https://www.chinaenclosure.com/products/Infrared-Ceiling-Plastic-Housing-Smart-IoT-Housing-Sensor-Housing-Gateway-Housing-AK-NW-72A.html
