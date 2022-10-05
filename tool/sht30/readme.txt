@@ -32,7 +32,7 @@ USD: 2.72
 
 https://shopee.vn/   
 
-Giá: 55K
+Giá: 70K
 	
 SHT30-D mạch cảm biến đo nhiệt độ & độ ẩm
 
