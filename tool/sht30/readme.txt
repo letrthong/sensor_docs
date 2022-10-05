@@ -21,12 +21,10 @@ Kích thước: 18mm*40mm
 Khối lượng: 5gam
 Documents
 Github: https://github.com/Sensirion  <br>
+https://sensirion.com/products/catalog/SHT30-DIS-F/ 
 Telua Company
+ 
 
-
- https://www.chinaenclosure.com/products/New-design-customized-transparent-abs-plastic-enclosure-small-PCB-holders-for-LED-lights-AK-N-61-67.html
-   
-   
  
 	
 
