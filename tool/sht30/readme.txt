@@ -51,7 +51,7 @@ Thông số kỹ thuật:
 - Có Led nguồn và có thể sử dụng cổng USB loại A để kết nối như I2C
 - Tương thích với Arduino,Raspberry
 
-- Sử dụng các ứng dụng trong nhà.
+- Ứng dụng: Sử dụng các ứng dụng trong nhà.
 - Webiste:  https://telua.co
 
 
