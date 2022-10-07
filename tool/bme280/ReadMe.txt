@@ -9,4 +9,4 @@ BME280
 -Github:https://github.com/BoschSensortec
  
  
- Gia  200K
+ Gia  220K
