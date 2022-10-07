@@ -9,5 +9,4 @@ SHT31-D
 -Github: https://github.com/Sensirion
 
 Gia 120K 
-
-TheLECompany
+ 

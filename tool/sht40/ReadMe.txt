@@ -8,4 +8,6 @@ SHT40-D
 -Tương thích với Arduino,Raspberry 
 -Github: https://github.com/Sensirion
 
-TheLECompany
+
+200K
+ 
