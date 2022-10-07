@@ -7,4 +7,6 @@ BME280
 -Có Led nguồn và có thể sử dụng cổng USB loại A để kết nối như I2C
 -Tương thích với Arduino,Raspberry 
 -Github:https://github.com/BoschSensortec
-TheLECompany
+ 
+ 
+ Gia  200K
