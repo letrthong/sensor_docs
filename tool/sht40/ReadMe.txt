@@ -9,5 +9,5 @@ SHT40-D
 -Github: https://github.com/Sensirion
 
 
-200K
+160K
  
