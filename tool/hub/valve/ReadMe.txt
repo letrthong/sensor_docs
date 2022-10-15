@@ -6,3 +6,5 @@ solenoid valve
 Water pumps
 
 Automatic Watering System
+
+Automatic irrigation 
