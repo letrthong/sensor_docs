@@ -1,8 +1,8 @@
-Hộp Nhựa chống chống nước ngoài trời H2
+Hộp Nhựa chống nước ngoài trời H2
 
+Kích thước : 155*105*65mm
 Khối lượng: 0.22kg
 Màu: Trắng 
-Kích thước : 155*105*65
 Xuất xứ: Trung Quốc
 
-Giá: 80K
+Giá: 80K - Tiền  ship 17-20K
