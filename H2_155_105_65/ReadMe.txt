@@ -5,4 +5,4 @@ Khối lượng: 0.22kg
 Màu: Trắng 
 Xuất xứ: Trung Quốc
 
-Giá: 80K - Tiền  ship 17-20K - số lượng 100
+Giá: 79K - Tiền  ship 17-20K - số lượng 50
