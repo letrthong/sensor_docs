@@ -7,4 +7,4 @@ Dòng định mức: 10A
 
 Ứng dụng: Đây là thiết bị hỗ trợ kết nối dây cho Telua IoT Platform.
  
-Giá: 25K - Tiền  ship 17-20K - số lượng 50 
+Giá: 29K - Tiền  ship 17-20K - số lượng 50 
