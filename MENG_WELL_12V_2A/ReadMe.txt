@@ -8,7 +8,7 @@ Model: HDR-30-12
 Điện áp ra: 12VDC
 Dòng điện ra: 2A
 Công suất: 24W
-Kiểu lắp : 	Gắn ray
+Kiểu lắp : Gắn ray
 Chiều dài: 54.5 mm
 Chiều rộng: 35 mm
 Chiều cao: 90 mm
