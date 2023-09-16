@@ -10,4 +10,4 @@ Vật liệu vỏ: màu đen, PVC chịu nhiệt 80 độ C
 
 Ứng dụng: Đây là thiết bị hỗ trợ cho Telua IoT Platform.
  
-Giá: 29K/(1m) - Tiền  ship 17-20K - số lượng 50 
+Giá: 29K/(1m) - Tiền  ship 17-20K - số lượng 100m
