@@ -1,9 +1,10 @@
- 
-Hộp bảo vệ nối dây điện
+Bộ đầu nối đi đây cho phao điện từ
 
-Kích Thước trong:  50*42*35mm
-hộp có không gian rộng rãi bên trong cho các dây có đường kính từ φ4-8 mm (PG9).
-Với ứng dụng rộng rãi trên thiết kế 3 đường với thiết kế ba ngõ ra: Có sẵn cho 2 ngõ ra hoặc 3 ngõ ra
-Xuất xứ: Việt Nam
+Khoảng cách chân của Domino: 5.08mm
+Ngõ vào: 1 và 12VDC
+Ngõ ra: 2 và ứng với mực nước thấp và cao
+
+Sử dụng để nối dây nhanh với phao điện từ
+
 Ứng dụng: Đây là thiết bị hỗ trợ kết nối dây cho Telua IoT Platform.
-Giá: 25K - Tiền  ship 17-20K - số lượng 0
+Giá: 35K - Tiền  ship 17-20K - số lượng 50 
