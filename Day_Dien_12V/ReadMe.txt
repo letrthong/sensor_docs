@@ -4,7 +4,7 @@ Thông số kỹ thuật:
 Số lõi: 4 lõi + 1 lớp chống nhiễu và  bọc kim loại
 Tiết diện mặt cắt: 0.3 mm²
 Vật liệu dẫn điện: Nhôm
-Màu sắc lõi: Đỏ+đen+Vàng+trắng
+Màu sắc lõi: Đỏ+Nâu+Vàng+Xanh
 Vật liệu vỏ: màu đen, PVC chịu nhiệt 80 độ C
 Điện áp chịu đựng: 300V
 
