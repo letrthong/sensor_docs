@@ -10,4 +10,4 @@
 - Tiêu chuẩn kháng nước: IP68
 - Giao tiếp: Đầu Cost giao tiếp điện 3 lõi L/N/G 3mm (bắt vít)
 
-Giá: 69K, Số lượng 0
+Giá: 69K, Số lượng: 0
