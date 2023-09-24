@@ -1,8 +1,9 @@
-FSH711 Đầu Nối Chống Nước 1 Ra 1 Chân
+Đầu Nối Chống Nước 1 Ra 1 Chân FSH711
 
+- Model: FSH711
 - Hãng sản xuất: ZAAGUU
 - Xuất xứ: Trung Quốc
-- Model: FSH711
+
 - Kích thước:FSH711  115x54x35mm (đường kính cho dây; 5mm đến 15mm)
 - Kích thước FSH713 : Kích thước bên ngoài : 80*55*40mm ( Kích thước hộp bên trong : 72*48*32mm )
 - Màu sắc: Màu đen (vỏ nhựa chịu lực và môi trường)
