@@ -1,4 +1,12 @@
-FSH711 
+FSH711 Đầu Nối Chống Nước 1 Ra 1 Chân
 
-https://s.1688.com/selloffer/offer_search.htm?keywords=FSH711&n=y&netType=1%2C11%2C16&spm=a260k.dacugeneral.search.0
-https://detail.1688.com/offer/620024165330.html?spm=a26352.13672862.offerlist.70.62f837adfN2GpK
+- Hãng sản xuất: ZAAGUU
+- Xuất xứ: Trung Quốc
+- Model: FSH711
+- Kích thước:FSH711  115x54x35mm (đường kính cho dây; 5mm đến 15mm)
+- Kích thước FSH713 : Kích thước bên ngoài : 80*55*40mm ( Kích thước hộp bên trong : 72*48*32mm )
+- Màu sắc: Màu đen (vỏ nhựa chịu lực và môi trường)
+- Tiêu chuẩn kháng nước: IP68
+- Giao tiếp: Đầu Cost giao tiếp điện 3 lõi L/N/G 3mm (bắt vít)
+
+Giá: 69K, Số lượng 0
