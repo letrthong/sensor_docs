@@ -11,6 +11,7 @@ Thông số kĩ thuật
 Hộp nhựa PLC kích thước 88x37x59 màu đen 
 
 Ứng dụng:
+	Bộ Hẹn Giờ WiFi Telua 12V 
 	Cấp nguồn led 12v -5W
 
 Website: https://telua.co/
