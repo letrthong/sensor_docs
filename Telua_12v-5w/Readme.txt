@@ -1,5 +1,5 @@
 
-Nguồn Telua 12V- 0.45A
+Bộ nguồn Telua 12V- 0.45A
 Thông số kĩ thuật 
 	HLK-5M12 
     Điện áp đầu vào: 90V - 264VAC
@@ -13,4 +13,5 @@ Hộp nhựa PLC kích thước 88x37x59 màu đen
 Ứng dụng:
 	Cấp nguồn led 12v -5W
 
+Website: https://telua.co/
 Giá: 99K- Số lượng 10  
