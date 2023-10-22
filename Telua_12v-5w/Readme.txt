@@ -1,5 +1,5 @@
 
-Bộ nguồn Telua 12V- 0.45A
+Bộ nguồn Telua Gắn Ray  12V - 0.45A
 Thông số kĩ thuật 
 	IC nguồn HLK-5M12 
 	Điện áp đầu vào: 90V - 264VAC
