@@ -15,4 +15,4 @@ Hộp nhựa PLC kích thước 88x37x59 màu đen
 	Cấp nguồn led 12v -5W
 
 Website: https://telua.co/
-Giá: 99K- Số lượng 10  
+Giá: 99K- Số lượng 1  
