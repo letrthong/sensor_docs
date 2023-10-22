@@ -8,3 +8,5 @@ Thông số kĩ thuật
     Công suất tối đa: 5W ~ 450mA
 	
 Hộp nhựa PLC kích thước 88x37x59 màu đen 
+
+Giá: 99K- Số lượng 10 
