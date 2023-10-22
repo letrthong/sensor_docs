@@ -13,4 +13,4 @@ Hộp nhựa PLC kích thước 88x37x59 màu đen
 Ứng dụng:
 	Cấp nguồn led 12v -5W
 
-Giá: 99K- Số lượng 10 
+Giá: 99K- Số lượng 10  
