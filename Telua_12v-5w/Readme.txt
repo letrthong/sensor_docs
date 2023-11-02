@@ -18,4 +18,4 @@ Hộp nhựa PLC kích thước 88x37x59 màu đen
 Xuất Xứ: Trung Quốc
 
 Website: https://telua.co/
-Giá: 99K- Số lượng 1  
+Giá: 99K- Số lượng 10
