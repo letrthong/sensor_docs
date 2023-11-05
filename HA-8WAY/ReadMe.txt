@@ -7,7 +7,7 @@ Có sẵn thanh tiếp địa PE và N
 Mặt meca nhựa mờ
 Độ kín nước chuẩn IP65
 Có sẵn lỗ bắt siết cáp
-Xuất xứ: China
+Xuất xứ: Trung Quốc
 
 
 Giá: 150K- số lượng 0 
