@@ -1,4 +1,4 @@
-Aptomat MCB Panasonic BBD1201CNV 20A 6kA 1P
+Aptomat (MCB) Panasonic BBD1201CNV 20A 6kA 1P
 
 Thương hiệu: Panasonic
 Series: BBD
