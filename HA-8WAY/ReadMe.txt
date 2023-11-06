@@ -1,5 +1,5 @@
 
-Tủ điện nổi HA-8WAY 8 Module
+Tủ điện HA-8WAY 8 Module
 
 Chất liệu nhựa Plastic
 Kích thước: 215x210x100mm
