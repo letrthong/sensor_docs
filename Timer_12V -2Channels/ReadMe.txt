@@ -1,7 +1,5 @@
 
- 
-
-Bộ tưới cây hẹn giờ tự động WiFi Telua tự động 2 kênh
+Bộ tưới cây hẹn giờ tự động WiFi Telua 2 kênh
 Mô tả sản phẩm
 	Nguồn cấp: 12VDC - 2A   
 	Có 2 ngõ ra 12V 
