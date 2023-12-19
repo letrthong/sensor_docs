@@ -10,4 +10,7 @@ Có sẵn lỗ bắt siết cáp
 Xuất xứ: Trung Quốc
 
 
-Giá: 150K- số lượng 0 
+HA-8WAY 
+Giá: 150K- số lượng  5
+HA-5WAY 
+Giá: 100K- số lượng  5
