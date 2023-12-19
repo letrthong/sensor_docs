@@ -13,4 +13,4 @@ Xuất xứ: Trung Quốc
 HA-8WAY 
 Giá: 150K- số lượng  5
 HA-5WAY 
-Giá: 100K- số lượng  5
+Giá: 120K- số lượng  5
