@@ -1,5 +1,5 @@
 
-Tủ điện HA-8WAY 8 Module
+Tủ điện HT-8WAY 8 Module
 
 Chất liệu nhựa Plastic
 Kích thước: 215x210x100mm
@@ -10,7 +10,7 @@ Có sẵn lỗ bắt siết cáp
 Xuất xứ: Trung Quốc
 
 
-HA-8WAY 
+HT-8WAY 
 Giá: 150K- số lượng  5
-HA-5WAY 
+HT-5WAY 
 Giá: 120K- số lượng  5
