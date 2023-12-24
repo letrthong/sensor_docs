@@ -27,5 +27,5 @@ Trang web điều khiển thiết bị ở  https://telua.co/aiot
 Chú ý: Telua IoT platform (https://telua.co/) sẽ cung cấp miễn phí phần mền nếu dưới 3 thiết bị và sẽ thu phí nếu sử dụng trên 3 thiết bị 
        Để điều khiển thiết bị 220V hay 12V cống suất lớn cần mua thêm relay 
 	   
-Gia: 160K - Số lượng 0
+Gia: 170K - Số lượng 5
  
