@@ -18,14 +18,14 @@ Bảo hành điện tử
 	Truy cập website để  có thông tin chi tiết
 	
 Tài liệu hướng dẫn sử dụng	
-    https://telua.co/tmonitor#guideline
+    https://telua.co/tmonitor#guideline_timer
 
 Trang web điều khiển thiết bị ở  https://telua.co/aiot 
 	Tài khoản: telua
 	Mật Khẩu: 12345678
 	
 Chú ý: Telua IoT platform (https://telua.co/) sẽ cung cấp miễn phí phần mền nếu dưới 3 thiết bị và sẽ thu phí nếu sử dụng trên 3 thiết bị 
-       Để điều khiển thiết bị 220V hay 12V cống suất lớn cần mua thêm relay 
+    Để điều khiển thiết bị 220V hay 12V cống suất lớn cần mua thêm relay 
 	   
 Gia: 170K - Số lượng 5
  
