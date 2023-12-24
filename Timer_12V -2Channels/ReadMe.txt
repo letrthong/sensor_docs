@@ -13,7 +13,6 @@ Mô tả sản phẩm
    
 Bộ sản phẩm bao gồm:
 	1 mạch điều khiển
-	1 bộ nguồn 12V
 Bảo hành điện tử
 	Bảo hành 12 tháng dựa vào mã QR tích hợp trên thiết bị
 	Truy cập website để  có thông tin chi tiết
