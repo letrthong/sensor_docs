@@ -11,6 +11,7 @@ Mô tả sản phẩm
 	Theo dõi Online qua App, Web (https://telua.co/aiot)
 	Cho phép sử dụng tối đa 24 bộ hẹn giờ
 	Cảnh báo tin nhắn khi thiết bị mất kết nối
+ 
    
 Bộ sản phẩm bao gồm:
 	1 mạch đọc WiFi + cảm biến BH1750
